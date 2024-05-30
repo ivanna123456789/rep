@@ -1,0 +1,33 @@
+body{
+	background-image:url("LOGO1.jpg");
+	background-repeat: no-repeat;
+	background-position:50% 50%;
+	background-attachment: scroll;
+	background-size: 100%;
+}
+
+h2{
+	font-family:monotype corsiva;
+	background-color:#8A038C;
+	color: white;
+	padding-left:10px;
+	width:150px;
+	clear:both;
+}
+
+p img.clase1{
+	float:left;
+	margin-right:20px;
+	
+}
+
+p img.clase2{
+	float:right;
+	margin-left:10px;
+	border:2px solid #8A038C;
+	background-color:lightgrey;
+	padding:15px;
+	
+}
+
+
